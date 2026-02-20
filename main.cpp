@@ -12,9 +12,9 @@ int main() {
 	cout << "Введите цифру: ";
 	cin >> num;
 	cout << endl;
-	
 
-	
+
+
 
 	cout << "\x1b[92m";
 	switch (num) {
@@ -115,8 +115,17 @@ int main() {
 		cout << "8 * 9 = 72" << endl;
 		cout << "8 * 10 = 80" << endl;
 		return 0;
-
-
+	case 9:
+		cout << "9 * 1 = 9" << endl;
+		cout << "9 * 2 = 18" << endl;
+		cout << "9 * 3 = 27" << endl;
+		cout << "9 * 4 = 36" << endl;
+		cout << "9 * 5 = 45" << endl;
+		cout << "9 * 6 = 54" << endl;
+		cout << "9 * 7 = 63" << endl;
+		cout << "9 * 8 = 72" << endl;
+		cout << "9 * 9 = 81" << endl;
+		cout << "9 * 10 = 90" << endl;
 	}
 
 
@@ -124,7 +133,6 @@ int main() {
 
 
 }
-
 
 
 
