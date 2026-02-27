@@ -126,14 +126,19 @@ int main() {
 		cout << "9 * 8 = 72" << endl;
 		cout << "9 * 9 = 81" << endl;
 		cout << "9 * 10 = 90" << endl;
-	}
-
-
-
-
-
+		return 0;
+case 10:
+	cout << "10 * 1 = 10" << endl;
+	cout << "10 * 2 = 20" << endl;
+	cout << "10 * 3 = 30" << endl;
+	cout << "10 * 4 = 40" << endl;
+	cout << "10 * 5 = 50" << endl;
+	cout << "10 * 6 = 60" << endl;
+	cout << "10 * 7 = 70" << endl;
+	cout << "10 * 8 = 80" << endl;
+	cout << "10 * 9 = 90" << endl;
+	cout << "10 * 10 = 100" << endl;
+	return 0;
 }
-
-
 
 
